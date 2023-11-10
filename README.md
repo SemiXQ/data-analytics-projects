@@ -1,2 +1,5 @@
 # data-analytics-projects
-Data analytics projects in course. Sklearn (scikit-learn), random forest, PCA, feature engineering, RNN, churn model
+
+team projects in data science course, where analysis was based on anonymous banking and retail data.
+
+Code in this repo are my contributions to the projects. Technical skills include: Sklearn (scikit-learn), random forest, PCA, feature engineering, RNN, churn model
